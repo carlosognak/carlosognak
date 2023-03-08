@@ -10,5 +10,3 @@ I like activities that allow me to take initiatives, take responsibility and mak
 - [![Twitter follow @carlosognak](https://img.shields.io/twitter/follow/lioncoding?style=social)](https://twitter.com/intent/follow?screen_name=carlosognak)
 - 😄 Pronouns: He/Him
 - Fell free to DM me on Twitter :)
-
-![carlosognak's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosognak&theme=dark&show_icons=true)
